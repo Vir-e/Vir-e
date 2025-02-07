@@ -5,6 +5,8 @@ me = Developer(technologies = [
     "Python",
     "FastAPI",
     "SQLAlchemy",
+    "SQL Server",
+    "PostgreSQL",
     "Git",
     "GitHub",
     "Docker",
