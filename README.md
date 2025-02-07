@@ -1,8 +1,7 @@
 ## Desarrolladora, principalmente en backend con Python
 
 ```
-me = Developer(
-    technologies = [
+me = Developer(technologies = [
     "Python",
     "FastAPI",
     "SQLAlchemy",
