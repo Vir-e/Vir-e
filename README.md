@@ -1,7 +1,18 @@
 ## Desarrolladora, principalmente en backend con Python
 
 ```
-me = Developer(technologies = ["Python", "FastAPI", "SQLAlchemy", "Git", "GitHub", "Docker", "Nginx", "HTML", "CSS", "Javascript"])  
+me = Developer(
+    technologies = [
+    "Python",
+    "FastAPI",
+    "SQLAlchemy",
+    "Git",
+    "GitHub",
+    "Docker",
+    "Nginx",
+    "HTML",
+    "CSS",
+    "Javascript"])  
 
 if technology in technologies:  
     me.work()  
