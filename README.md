@@ -4,9 +4,9 @@
 >me = Developer(technologies = ["Python", "FastAPI", "SQLAlchemy", "Git", "GitHub", "Docker", "Nginx", "HTML", "CSS", "Javascript"])  
 >
 >if technology in technologies:  
->    me.work()  
+>```    me.work()  
 >else:  
->    me.learn(technology)  
+>```    me.learn(technology)  
 
 <!--   
 **Vir-e/Vir-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
