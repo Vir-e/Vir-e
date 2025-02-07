@@ -1,12 +1,12 @@
 ## Desarrolladora, principalmente en backend con Python
 
 
->me = Developer(technologies = ["Python", "FastAPI", "SQLAlchemy", "Git", "GitHub", "Docker", "Nginx", "HTML", "CSS", "Javascript"])
+>me = Developer(technologies = ["Python", "FastAPI", "SQLAlchemy", "Git", "GitHub", "Docker", "Nginx", "HTML", "CSS", "Javascript"])  
 >
->if technology in technologies:
->    me.work()
->else:
->    me.learn(technology)
+>if technology in technologies:  
+>    me.work()  
+>else:  
+>    me.learn(technology)  
 
 <!--   
 **Vir-e/Vir-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
