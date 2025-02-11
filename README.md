@@ -15,7 +15,7 @@ me = Developer(technologies = [
     "CSS",
     "Javascript"])  
 
-if technology in technologies:  
+if technology in me.technologies:  
     me.work()  
 else:  
     me.learn(technology)  
